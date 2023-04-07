@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Chatbot Custom Color */
+/* df-messenger {
+  --df-messenger-bot-message: #666;
+  --df-messenger-button-titlebar-color: #666;
+  --df-messenger-button-titlebar-font-color: #fff;
+  --df-messenger-chat-background-color: #fafafa;
+  --df-messenger-font-color: #fff;
+  --df-messenger-user-message: #1187ee;
+  --df-messenger-input-box-color: #fff;
+  --df-messenger-input-font-color: #333;
+} */
